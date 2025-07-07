@@ -1,7 +1,7 @@
-## Hi there 👋
+## HOLA AQUI ENCONTRARAS TODA LA INFO DEL DIA A DIA. INFO SVE SALTA
 
 <!--
-**info-sve-salta/Info-sve-salta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**info-sve-salta/Info-sve-salta 2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
